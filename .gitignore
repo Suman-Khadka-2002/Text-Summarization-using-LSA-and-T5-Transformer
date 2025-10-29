@@ -1,0 +1,12 @@
+db.sqlite3
+pycache/
+*.pyc
+.env
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+*.egg-info/
+staticfiles/
+node_modules/
