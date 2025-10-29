@@ -1,12 +1,46 @@
-db.sqlite3
-pycache/
-*.pyc
-.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
 venv/
 env/
 .venv/
-.idea/
-.vscode/
+.ENV/
+.env/
+
+# Distribution / packaging
+build/
+dist/
 *.egg-info/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
 staticfiles/
+
+# Pytest cache
+.pytest_cache/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if frontend assets present)
 node_modules/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Vercel build cache / output directories
+.vercel/
