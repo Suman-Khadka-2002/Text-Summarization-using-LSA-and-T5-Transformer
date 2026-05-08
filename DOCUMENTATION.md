@@ -770,20 +770,3 @@ function debounce(func, wait) {
 
 ---
 
-## 📧 Contact & Support
-
-**Developer**: Suman Khadka  
-**Repository**: [GitHub](https://github.com/Suman-Khadka-2002/Text-Summarization-using-LSA-and-T5-Transformer)  
-**Email**: Contact through GitHub profile
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Last Updated**: May 8, 2026  
-**Version**: 1.0  
-**Status**: Production Ready
